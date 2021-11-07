@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Abdullah ElAmin .
 - 👀 I’m interested in Web Development .
-- 🌱 I’m currently learning livewire .
 - 💞️ I’m looking to collaborate on coding some great web apps that help people and make life easier .
 - 📫 How to reach me e-mail abdullah.el_amin@outlook , Phone: 00201013600103 .
+- Online Management Software
 - 
-Online Management Software
 What is Online management software?
 
 It's a system to help you plan, organize, and manage your team's work, from start to finish. Good management software also acts as a collaboration tool. You can coordinate team tasks so everyone knows who's doing what. Share feedback, files, and status updates. Plus, get a complete view of work so teams tackle the right tasks at the right time.
